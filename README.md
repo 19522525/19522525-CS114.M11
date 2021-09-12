@@ -1,5 +1,5 @@
 # 19522525
-* __Giới thiệu bản thân:__ 
+## Giới thiệu bản thân:
 
 |**Tên**|**MSSV**|**Gmail**|**Github**|
 |:---|:---|:---|:---|
