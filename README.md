@@ -1,8 +1,9 @@
 # 19522525
 * __Giới thiệu bản thân:__ 
 
-|**STT**|**Tên**|**MSSV**|**Gmail**|**Github**|
-|1|Nguyễn Văn Vinh|19522525|19522525@gm.uit.edu.vn|https://github.com/RazLuBo|
+|**Tên**|**MSSV**|**Gmail**|**Github**|
+|:---|:---|:---|:---|
+|Nguyễn Văn Vinh|19522525|19522525@gm.uit.edu.vn|https://github.com/RazLuBo|
 
 ## Giới thiệu môn học:
 * __Tên môn học:__ MÁY HỌC - MACHINE LEARNING
